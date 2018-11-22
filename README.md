@@ -1,7 +1,7 @@
-vuejs-springmvc-sample
+ReactJS-springmvc-sample
 ==========================
 
-An example application using VueJS/Bootstrap as frontend and Spring MVC as REST API producer.
+An example application using ReactJS/Bootstrap as frontend and Spring MVC as REST API producer.
 
 ## Requirements
 

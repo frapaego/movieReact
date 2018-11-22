@@ -1,0 +1,10 @@
+@media all and (min-width: 480px) {
+  .login {
+    padding: 60px 0;
+    margin: auto 25%;
+  }
+
+  .loginForm {
+    margin: 0 auto;
+  }
+}
